@@ -1,0 +1,1951 @@
+{
+    "projects": {
+        "Dronecode": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/Dronecode/Dronecode-util.git"
+                }, 
+                {
+                    "url": "https://github.com/Dronecode/MAVLink-Devguide.git"
+                }, 
+                {
+                    "url": "https://github.com/Dronecode/Technical-Steering-Committee.git"
+                }, 
+                {
+                    "url": "https://github.com/Dronecode/UX-Design.git"
+                }, 
+                {
+                    "url": "https://github.com/Dronecode/Vagrant.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/alceosd.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/apm_planner.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/ardupilot.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/ardupilot_wiki.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/ardupilot_wiki_copy.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/binary.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/companion.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/FWLoad.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/MAVProxy.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/MissionPlanner.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/pymavlink.git"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/SiK.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/astyle.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Bootloader.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/CI-Tools.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/companion.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/containers.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Devguide.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/DriverFramework.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/ecl.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/eigen.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Firmware.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Flow.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/GpsDrivers.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Hardware.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/HIL.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/homebrew-px4.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Lepton.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Matrix.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/mav_comm.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/NuttX.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/PX4Devguide.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/PX4NuttX.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/px4ros.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/pyulog.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/rpi_toolchain.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/sapog.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/snap_cam.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/uvc_ros_driver.git"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/imu_autopilot.git"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/libdc1394.git"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/mavconn.git"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/mavlink-ros-pkg.git"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/pixhawk-kinect-pkg.git"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/pixhawk-oe.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/containers.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/c_library_v1.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/c_library_v2.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/c_uart_interface_example.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink-gbp-release.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink-ivy-interface.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink_devguide.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink_ros.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavros.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavros-release.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/qgc-dev-guide.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/qgc-user-guide.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/qgroundcontrol.git"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/v2_playground.git"
+                }, 
+                {
+                    "url": "https://github.com/diydrones/APM_Log_File_Analyzer.git"
+                }, 
+                {
+                    "url": "https://github.com/diydrones/ardupilot_wordpress_sources.git"
+                }, 
+                {
+                    "url": "https://github.com/diydrones/MinimOSD-Extra.git"
+                }, 
+                {
+                    "url": "https://github.com/diydrones/PXF.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/ci-test.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/droneapi-protobuf.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-android.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-cloud-docs.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-la.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-la-testdata.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-python.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-python-solo.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-server.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-sitl.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/droneshare.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/sphinx_3dr_theme.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/tower-web.git"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/visual-followme.git"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/dsdl.git"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/gui_tool.git"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/libcanard.git"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/libuavcan.git"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/pyuavcan.git"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/uavcan.github.io.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/Dronecode/Dronecode-util"
+                }, 
+                {
+                    "url": "https://github.com/Dronecode/MAVLink-Devguide"
+                }, 
+                {
+                    "url": "https://github.com/Dronecode/Technical-Steering-Committee"
+                }, 
+                {
+                    "url": "https://github.com/Dronecode/UX-Design"
+                }, 
+                {
+                    "url": "https://github.com/Dronecode/Vagrant"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/alceosd"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/apm_planner"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/ardupilot"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/ardupilot_wiki"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/ardupilot_wiki_copy"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/binary"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/companion"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/FWLoad"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/MAVProxy"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/MissionPlanner"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/pymavlink"
+                }, 
+                {
+                    "url": "https://github.com/ArduPilot/SiK"
+                }, 
+                {
+                    "url": "https://github.com/PX4/astyle"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Bootloader"
+                }, 
+                {
+                    "url": "https://github.com/PX4/CI-Tools"
+                }, 
+                {
+                    "url": "https://github.com/PX4/companion"
+                }, 
+                {
+                    "url": "https://github.com/PX4/containers"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Devguide"
+                }, 
+                {
+                    "url": "https://github.com/PX4/DriverFramework"
+                }, 
+                {
+                    "url": "https://github.com/PX4/ecl"
+                }, 
+                {
+                    "url": "https://github.com/PX4/eigen"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Firmware"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Flow"
+                }, 
+                {
+                    "url": "https://github.com/PX4/GpsDrivers"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Hardware"
+                }, 
+                {
+                    "url": "https://github.com/PX4/HIL"
+                }, 
+                {
+                    "url": "https://github.com/PX4/homebrew-px4"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Lepton"
+                }, 
+                {
+                    "url": "https://github.com/PX4/Matrix"
+                }, 
+                {
+                    "url": "https://github.com/PX4/mav_comm"
+                }, 
+                {
+                    "url": "https://github.com/PX4/NuttX"
+                }, 
+                {
+                    "url": "https://github.com/PX4/PX4Devguide"
+                }, 
+                {
+                    "url": "https://github.com/PX4/PX4NuttX"
+                }, 
+                {
+                    "url": "https://github.com/PX4/px4ros"
+                }, 
+                {
+                    "url": "https://github.com/PX4/pyulog"
+                }, 
+                {
+                    "url": "https://github.com/PX4/rpi_toolchain"
+                }, 
+                {
+                    "url": "https://github.com/PX4/sapog"
+                }, 
+                {
+                    "url": "https://github.com/PX4/snap_cam"
+                }, 
+                {
+                    "url": "https://github.com/PX4/uvc_ros_driver"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/imu_autopilot"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/libdc1394"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/mavconn"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/mavlink-ros-pkg"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/pixhawk-kinect-pkg"
+                }, 
+                {
+                    "url": "https://github.com/pixhawk/pixhawk-oe"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/containers"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/c_library_v1"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/c_library_v2"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/c_uart_interface_example"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink-gbp-release"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink-ivy-interface"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink_devguide"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavlink_ros"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavros"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/mavros-release"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/qgc-dev-guide"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/qgc-user-guide"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/qgroundcontrol"
+                }, 
+                {
+                    "url": "https://github.com/mavlink/v2_playground"
+                }, 
+                {
+                    "url": "https://github.com/diydrones/APM_Log_File_Analyzer"
+                }, 
+                {
+                    "url": "https://github.com/diydrones/ardupilot_wordpress_sources"
+                }, 
+                {
+                    "url": "https://github.com/diydrones/MinimOSD-Extra"
+                }, 
+                {
+                    "url": "https://github.com/diydrones/PXF"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/ci-test"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/droneapi-protobuf"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-android"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-cloud-docs"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-la"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-la-testdata"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-python"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-python-solo"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-server"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/dronekit-sitl"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/droneshare"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/sphinx_3dr_theme"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/tower-web"
+                }, 
+                {
+                    "url": "https://github.com/dronekit/visual-followme"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/dsdl"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/gui_tool"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/libcanard"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/libuavcan"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/pyuavcan"
+                }, 
+                {
+                    "url": "https://github.com/UAVCAN/uavcan.github.io"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "Dronecode", 
+            "wiki_url": []
+        }, 
+        "Fd.io": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://gerrit.fd.io/r/ci-management"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/csit"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/deb_dpdk"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/honeycomb"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/nsh_sfc"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/one"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/rpm_dpdk"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/test_injector"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/tldk"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/trex"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/vpp"
+                }, 
+                {
+                    "url": "https://gerrit.fd.io/r/vppsb"
+                }
+            ], 
+            "github": [], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "pipermail": [
+                {
+                    "url": "https://lists.fd.io/pipermail/ci-management-dev/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/csit-dev/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/deb-dpdk/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/discuss/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/honeycomb-dev/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/nsh_sfc-dev/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/one-dev/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/rpm_dpdk/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/security-announce/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/tldk-dev/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/trex-dev/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/tsc/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/vpp-dev/"
+                }, 
+                {
+                    "url": "https://lists.fd.io/pipermail/vppsb-dev/"
+                }
+            ], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "Fd.io", 
+            "wiki_url": []
+        }, 
+        "Hyperledger": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "github": [], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "pipermail": [
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/healthcare-wg/"
+                }, 
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/hyperledger-announce/"
+                }, 
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/hyperledger-arch-wg/"
+                }, 
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/hyperledger-discuss/"
+                }, 
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/hyperledger-fabric/"
+                }, 
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/hyperledger-requirements-wg/"
+                }, 
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/hyperledger-stl/"
+                }, 
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/hyperledger-technical-discuss/"
+                }, 
+                {
+                    "url": "https://lists.hyperledger.org/pipermail/hyperledger-tsc/"
+                }
+            ], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "Hyperledger", 
+            "wiki_url": []
+        }, 
+        "Linux": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/torvalds/libdivecomputer.git"
+                }, 
+                {
+                    "url": "https://github.com/torvalds/linux.git"
+                }, 
+                {
+                    "url": "https://github.com/torvalds/subsurface.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/torvalds/libdivecomputer"
+                }, 
+                {
+                    "url": "https://github.com/torvalds/linux"
+                }, 
+                {
+                    "url": "https://github.com/torvalds/subsurface"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "pipermail": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "Linux", 
+            "wiki_url": []
+        }, 
+        "Node.js": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/nodejs/abi-stable-node.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/abi-stable-node-addon-examples.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/api.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/benchmarking.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/build.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/build-containers.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/citgm.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/code-and-learn.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/collaboration.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/contribution-slides.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/CTC.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/dev-policy.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/diagnostics.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/doc-tool.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/docker-iojs.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/docker-node.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/docs.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/education.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/email.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/evangelism.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/foundation-slides.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/foundation.nodejs.org.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/Future-CI.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/github-bot.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/hardware.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/help.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/http.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/http-parser.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/http2.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/inclusivity.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/inclusivity-slack-inviter.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/installer.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/Intl.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/iojs.org.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/live.nodejs.org.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/llnode.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/logos.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/LTS.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/membership.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nan.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/NG.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-addon-examples.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-chakracore.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-convergence-archive.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-eps.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-gyp.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-v0.x-archive.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ar.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-bg.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-bn.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-cs.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-da.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-de.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-dist-indexer.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-el.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-fa.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-fi.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-fr.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-he.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-hi.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-hu.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-id.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-it.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ja.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ka.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ko.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-latest-linker.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-mk.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ms.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-nightly-builder.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-nl.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-no.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-pl.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-pt.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ro.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ru.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-sv.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-sw.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ta.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-tr.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-uk.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-vi.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-zh-CN.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-zh-TW.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs.org.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs.org-archive.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs.org-new.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodereport.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/post-mortem.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/promises.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/readable-stream.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/roadmap.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/smoke-test.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/summit.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/testing.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/TSC.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/vm.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/nodejs/abi-stable-node"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/abi-stable-node-addon-examples"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/api"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/benchmarking"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/build"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/build-containers"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/citgm"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/code-and-learn"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/collaboration"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/contribution-slides"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/CTC"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/dev-policy"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/diagnostics"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/doc-tool"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/docker-iojs"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/docker-node"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/docs"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/education"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/email"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/evangelism"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/foundation-slides"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/foundation.nodejs.org"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/Future-CI"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/github-bot"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/hardware"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/help"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/http"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/http-parser"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/http2"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/inclusivity"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/inclusivity-slack-inviter"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/installer"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/Intl"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/iojs.org"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/live.nodejs.org"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/llnode"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/logos"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/LTS"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/membership"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nan"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/NG"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-addon-examples"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-chakracore"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-convergence-archive"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-eps"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-gyp"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/node-v0.x-archive"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ar"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-bg"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-bn"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-cs"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-da"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-de"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-dist-indexer"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-el"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-fa"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-fi"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-fr"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-he"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-hi"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-hu"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-id"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-it"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ja"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ka"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ko"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-latest-linker"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-mk"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ms"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-nightly-builder"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-nl"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-no"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-pl"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-pt"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ro"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ru"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-sv"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-sw"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-ta"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-tr"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-uk"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-vi"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-zh-CN"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs-zh-TW"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs.org"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs.org-archive"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodejs.org-new"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/nodereport"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/post-mortem"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/promises"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/readable-stream"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/roadmap"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/smoke-test"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/summit"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/testing"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/TSC"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/vm"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "Node.js", 
+            "wiki_url": []
+        }, 
+        "ODPI": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/odpi/self-certification-reports.git"
+                }, 
+                {
+                    "url": "https://github.com/odpi/specs.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/odpi/self-certification-reports"
+                }, 
+                {
+                    "url": "https://github.com/odpi/specs"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "pipermail": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "ODPI", 
+            "wiki_url": []
+        }, 
+        "Open-O": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "github": [], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "pipermail": [
+                {
+                    "url": "https://lists.open-o.org/pipermail/openo-common-services/"
+                }, 
+                {
+                    "url": "https://lists.open-o.org/pipermail/openo-common-tosca/"
+                }, 
+                {
+                    "url": "https://lists.open-o.org/pipermail/openo-discuss/"
+                }, 
+                {
+                    "url": "https://lists.open-o.org/pipermail/openo-gso/"
+                }, 
+                {
+                    "url": "https://lists.open-o.org/pipermail/openo-integration/"
+                }, 
+                {
+                    "url": "https://lists.open-o.org/pipermail/openo-nfvo/"
+                }, 
+                {
+                    "url": "https://lists.open-o.org/pipermail/openo-sdno/"
+                }, 
+                {
+                    "url": "https://lists.open-o.org/pipermail/openo-tsc/"
+                }
+            ], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "Open-O", 
+            "wiki_url": []
+        }, 
+        "OpenDaylight": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "github": [], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "pipermail": [
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/aaa-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/aalldp-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/advisory-group/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/affinity-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/alto-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/armoury-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/atrium-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/bgpcep-announce/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/bgpcep-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/bgpcep-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/bugs/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/capwap-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/cardinal-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/centinel-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/circuitsw-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/controller-announce/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/controller-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/controller-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/coretutorials-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/daexim/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/defense4all-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/defense4all-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/demos-and-pocs/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/didm-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/discovery-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/discuss/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/dlux-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/dlux-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/documentation/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/eman-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/epc-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/faas-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/facilitators/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/genius-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/groupbasedpolicy-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/incntre/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/infrastructure/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/infrautils-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/integration-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/integration-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/iotdm-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/jenkins/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/jsonrpc-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/kafkaproducer-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/l2switch-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/lacp-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/lispflowmapping-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/lispflowmapping-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/mdsal-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/messaging4transport-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/natapp-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/nemo-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/net-virt-platform-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/net-virt-platform-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/netconf-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/netide-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/netvirt-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/neutron-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/next-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/nic-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/ocpplugin-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/odlforge-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/odlparent-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/odlug/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/of-config-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/opendaylight-announce/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/opendaylight-i18n/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/opendaylight-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/opendove-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/opendove-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/openflowjava-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/openflowjava-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/openflowplugin-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/openflowplugin-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/opflex-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/ovsdb-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/ovsdb-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/packetcable-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/persistence-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/plugin2oc-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/project-proposals/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/projectleads/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/release/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/reservation-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/sdninterfaceapp-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/security-announce/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/sfc-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/snbi-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/snmp-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/snmp4sdn-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/snmp4sdn-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/spectrometer-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/sptn-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/stockholmodlug/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/sxp-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/tcpmd5-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/topoprocessing-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/transportpce-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/tsc/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/tsdr-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/ttp-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/unimgr-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/usc-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/usecplugin-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/vbd-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/virtualco/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/vpnservice-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/vtn-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/vtn-users/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/yang-push-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/yangide-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/yangtools-dev/"
+                }, 
+                {
+                    "url": "https://lists.opendaylight.org/pipermail/yangtools-users/"
+                }
+            ], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "OpenDaylight", 
+            "wiki_url": []
+        }, 
+        "OpenMainframe": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/openmainframeproject/ade.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/openmainframeproject/ade"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "OpenMainframe", 
+            "wiki_url": []
+        }, 
+        "Zephyr": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "github": [], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "pipermail": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "Zephyr", 
+            "wiki_url": []
+        }
+    }
+}
