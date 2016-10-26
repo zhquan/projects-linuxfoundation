@@ -698,6 +698,62 @@
             "gerrit_repo": [
                 {}
             ], 
+            "git": [
+                {
+                    "url": "http://gerrit.hyperledger.org/r/blockchain-explorer"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/ci-management"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/fabric"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/fabric-api"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/fabric-baseimage"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/fabric-sdk-java"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/fabric-sdk-node"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/fabric-sdk-py"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/fabric-test-resources"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/issue-bot"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/lf-sandbox"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/hyperledger"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/sawtooth-arcade"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/sawtooth-core"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/sawtooth-dev-tools"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/sawtooth-docs"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/sawtooth-mktplace"
+                }, 
+                {
+                    "url": "http://gerrit.hyperledger.org/r/sawtooth-validator"
+                }
+            ], 
             "github": [], 
             "mailing_lists": [], 
             "parent_project": [], 
@@ -1472,6 +1528,110 @@
             "gerrit_repo": [
                 {}
             ], 
+            "git": [
+                {
+                    "url": "https://gerrit.open-o.org/r/ci-management"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-services-auth"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-services-common-utilities"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-services-driver-mgr"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-services-external-system-registration"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-services-microservice-bus"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-services-protocol-stack"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-tosca-aria"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-tosca-catalog"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/common-tosca-inventory"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/gso"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/gso-gui"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/integration"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/nfvo"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/oparent"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-brs"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-driver-ct-te"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-driver-huawei-l3vpn"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-driver-huawei-openstack"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-driver-huawei-overlay"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-driver-huawei-servicechain"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-driver-zte-sptn"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-ipsec"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-l2vpn"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-l3vpn"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-monitoring"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-nslcm"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-optimize"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-overlay"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-servicechain"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-utils"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-vpc"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-vsitemgr"
+                }, 
+                {
+                    "url": "https://gerrit.open-o.org/r/sdno-vxlan"
+                }
+            ], 
             "github": [], 
             "mailing_lists": [], 
             "parent_project": [], 
@@ -1526,6 +1686,260 @@
             "forums": [], 
             "gerrit_repo": [
                 {}
+            ], 
+            "git": [
+                {
+                    "url": "https://git.opendaylight.org/gerrit/aaa"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/aalldp"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/affinity"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/alto"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/armoury"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/atrium"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/bgpcep"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/capwap"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/cardinal"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/centinel"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/controller"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/coretutorials"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/daexim"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/defense4all"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/didm"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/discovery"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/dlux"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/docs"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/eman"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/faas"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/genius"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/groupbasedpolicy"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/honeycomb/vbd"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/infrautils"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/integration"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/integration/distribution"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/integration/packaging"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/integration/test"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/iotdm"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/jsonrpc"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/kafkaproducer"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/l2switch"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/lacp"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/lispflowmapping"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/mdsal"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/messaging4transport"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/natapp"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/nemo"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/net-virt-platform"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/netconf"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/netide"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/netvirt"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/neutron"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/next"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/nic"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/ocpplugin"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/odlparent"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/of-config"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/ofextensions/circuitsw"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/ofextensions/epc"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/opendove"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/openflowjava"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/openflowplugin"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/opflex"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/ovsdb"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/packetcable"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/persistence"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/plugin2oc"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/potn"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/releng/autorelease"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/releng/builder"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/reservation"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/sdninterfaceapp"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/sfc"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/snbi"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/snmp"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/snmp4sdn"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/spectrometer"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/sptn"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/sxp"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/tcpmd5"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/toolkit"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/topoprocessing"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/transportpce"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/tsdr"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/ttp"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/unimgr"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/usc"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/usecplugin"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/vpnservice"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/vtn"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/yang-push"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/yangide"
+                }, 
+                {
+                    "url": "https://git.opendaylight.org/gerrit/yangtools"
+                }
             ], 
             "github": [], 
             "mailing_lists": [], 
