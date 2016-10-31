@@ -2354,40 +2354,38 @@
             ], 
             "git": [
                 {
-                    "url": "https://gerrit.open-o.org/r/ci-management"
+                    "url": "https://gerrit.zephyrproject.org/r/ci-management"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/docs-theme"
+                    "url": "https://gerrit.zephyrproject.org/r/docs-theme"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/environment-sensing"
+                    "url": "https://gerrit.zephyrproject.org/r/environment-sensing"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/heartrate-monitor"
+                    "url": "https://gerrit.zephyrproject.org/r/heartrate-monitor"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/meta-zephyr-sdk"
+                    "url": "https://gerrit.zephyrproject.org/r/meta-zephyr-sdk"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/net-tools"
+                    "url": "https://gerrit.zephyrproject.org/r/net-tools"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/rfcs"
+                    "url": "https://gerrit.zephyrproject.org/r/rfcs"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/sandbox"
+                    "url": "https://gerrit.zephyrproject.org/r/sandbox"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/testsuite"
+                    "url": "https://gerrit.zephyrproject.org/r/testsuite"
                 }, 
                 {
-                    "url": "https://gerrit.open-o.org/r/zephyr"
+                    "url": "https://gerrit.zephyrproject.org/r/zephyr"
                 }
             ], 
-            "github": [], 
             "mailing_lists": [], 
             "parent_project": [], 
-            "pipermail": [], 
             "releases": [], 
             "source_repo": [], 
             "title": "Zephyr", 
