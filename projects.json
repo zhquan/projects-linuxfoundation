@@ -1,5 +1,3215 @@
 {
     "projects": {
+        "AutomotiveLinux": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL-JTA"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL-JTA-core"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/AGL-distro"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/AGL-repo"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/DemoApps"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/DemoApps/ALS2016"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/DemoApps/CES2016"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/DemoApps/CES2017"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/Documents"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/Test-Project"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/meta-agl"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/meta-agl-demo"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/meta-agl-devel"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/meta-agl-extra"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/meta-renesas"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/AGL/releng-scripts"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/ci-management"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/src"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/src/app-framework-binder"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/src/app-framework-demo"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/src/app-framework-main"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/src/can-lin"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/src/hvacplugin"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/src/most"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/src/qa-test-misc"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/AudioManagerPlugins"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/HomeScreen"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/agl-audio-plugin"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/agl-jta-results"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/meta-iot-agl"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/meta-optee-agl"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/most-can-demo-bin"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/qtmultimedia-rtlfm-radio-plugin"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/qtwayland"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/tizen-application-manager"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/wayland-ivi-extension"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/staging/weston"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/z_sandbox"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/zzz_acl"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/zzz_acl/AGL_acl"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/zzz_acl/src_acl"
+                }, 
+                {
+                    "url": "https://git.automotivelinux.org/gerrit/zzz_acl/staging_acl"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL-JTA"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL-JTA-core"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/AGL-distro"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/AGL-repo"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/DemoApps"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/DemoApps/ALS2016"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/DemoApps/CES2016"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/DemoApps/CES2017"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/Documents"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/Test-Project"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/meta-agl"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/meta-agl-demo"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/meta-agl-devel"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/meta-agl-extra"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/meta-renesas"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/AGL/releng-scripts"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/ci-management"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/src"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/src/app-framework-binder"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/src/app-framework-demo"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/src/app-framework-main"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/src/can-lin"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/src/hvacplugin"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/src/most"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/src/qa-test-misc"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/AudioManagerPlugins"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/HomeScreen"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/agl-audio-plugin"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/agl-jta-results"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/meta-iot-agl"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/meta-optee-agl"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/most-can-demo-bin"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/qtmultimedia-rtlfm-radio-plugin"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/qtwayland"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/tizen-application-manager"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/wayland-ivi-extension"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/staging/weston"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/z_sandbox"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/zzz_acl"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/zzz_acl/AGL_acl"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/zzz_acl/src_acl"
+                }, 
+                {
+                    "url": "https://gerrit.automotivelinux.org/gerrit/zzz_acl/staging_acl"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "AutomotiveLinux", 
+            "wiki_url": []
+        }, 
+        "CloudFoundry": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/cloudfoundry/api-docs.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/archiver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/auction.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/auctioneer.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bbs.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/benchmarkbbs.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/binary-builder.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/binary-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/binary-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/blobstore_url_signer.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-agent.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-aws-tools-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-bootloader.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-cli.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-cpi.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-davcli.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-init.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-lite.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-notes.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-packer-templates.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-softlayer-cpi.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-utils.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh_artifacts.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/brats.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/buildpack-packager.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/buildpackapplifecycle.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/buildpacks-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bytefmt.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cacheddownloader.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/canibump.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-checkman.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-dockerfiles.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-integration-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cc-api-v3-style-guide.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cc-uploader.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-app-utils-ruby.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-deployment.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-dotnet-sdk.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-final-release-election.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-infrastructure-checkman.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-java-client.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-lite.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-message-bus.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-msbuild-tasks.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-mysql-broker.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-mysql-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-release-integration-checkman.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-riak-cs-broker.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-riak-cs-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-services-contrib.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-smoke-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-uaa-lib.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-uaac.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-vs-extension.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cfdot.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cfhttp.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cflager.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cflinuxfs2-rootfs-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/CLAW.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cli.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cli-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cli-docs-scripts.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/clock.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cloud_controller_ng.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/collector.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/commandrunner.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/common.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/communitydashboard.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/compile-extensions.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/config-server.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/consuladapter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/converger.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dea-hm-workspace.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dea_logging_agent.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dea_ng.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/debugserver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-cf-compatibility.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-ci-pools.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-datadog-templates.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-design-notes.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-dev-notes.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-dockerfiles.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-perf-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-ssh.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-stress-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-upgrade-stability-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-windows-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diegocanaryapp.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dockerapplifecycle.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-book-cloudfoundry.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-bosh.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-buildpacks.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-cf-admin.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-cf-cli.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-cf-help.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-cloudfoundry-concepts.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-deploying-cf.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-dev-guide.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-loggregator.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-running-cf.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-services.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dotnet-core-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dotnet-core-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dropsonde.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dropsonde-protocol.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/em-posix-spawn.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/eventhub.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/example-git-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/executor.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/fileserver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/firehose-plugin.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-ci-pools.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-dockerfiles.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-integration-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-lite.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-runc-docs.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-runc-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-shed.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-windows.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-windows-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gibson.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/git-release-notes.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/git_pipeline.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/go-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/go-ccapi.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/go-fetcher.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gofileutils.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gorouter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gosigar.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gosteno.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/go_cfmessagebus.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs-bench.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs-bench-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs-ci-locks.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/guardian.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/healthcheck.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/hm9000.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/homebrew-tap.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/identity-tools.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/idmapper.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/inigo.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/integration-test-support.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/IronFrame.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-auto-reconfiguration.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-container-customizer.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-dependency-builder.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-memory-calculator.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-metric-writer.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-support.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-system-test.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-offline-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-test-applications.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/lager.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/localip.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/locket.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/loggregator.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/loggregatorlib.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/loggregator_emitter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/logos.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/machete.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/mariadb_ctrl.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/mega-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/membrane.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/mkman.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/mkman-version.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/multierror.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/nats-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/networking-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/noaa.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/nodejs-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/nsync.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/nyet.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/omniauth-uaa-oauth2.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/operationq.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/os-conf-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/php-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/php-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/pmc-notes.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/postgres-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/python-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/rep.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/route-emitter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/rspec_parallel.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/ruby-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/ruby-package.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/runtime-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/runtime-og-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/runtimeschema.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/schemata.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/shared-release-packages.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/sonde-go.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/sprout-bosh.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/sprout-capi.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/sprout-routing.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/stacks.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/stager.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/staticfile-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/staticfile-buildpack-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/statsd-injector.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/steno.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/storeadapter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/summit-training-classes.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/syslog-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/systemcerts.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/tps.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/uaa.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/uaa-keystone.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/uaa-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/uaa-singular.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/urljoiner.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/v3-cli-plugin.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vcap-common.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vcap-concurrency.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vcap-test-assets.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vcap-tools.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vizzini.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/warden.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/warden-test-infrastructure.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/wats.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/windows_app_lifecycle.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/workpool.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/yagnats.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/admin-ui.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/app-autoscaler.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/app-autoscaler-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/app-restarter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/asg-creator.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/aws-light-stemcell-builder.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service-client.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service-migration-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-aws-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-azure-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-certification-receipt-generator.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-cpi-certification.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-dev-toolbox-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-fuzz-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-google-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-load-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-load-tests-workspace.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-openstack-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-openstack-environment-templates.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-photon-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-rackhd-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-softlayer-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-vcloud-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-vsphere-cpi-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-windows-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-windows-stemcell-builder.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-workspace.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/brooklyn-examples.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/brooklyn-plugin.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/brooklyn-service-broker.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/buildpacker.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/catch-all-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cephbroker.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cephdriver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cephfs-bosh-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-abacus.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-dotnet-sdk-samples.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-exe-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-identity-acceptance-tests-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-iis8-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mssql-broker.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-benchmark-app.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-bootstrap.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-cluster-health-logger.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-cluster-repair.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-force-rejoin.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-metrics-emitter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-openstack-validator.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-riak-cs-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-riak-cs-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-routing-test-helpers.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-swagger.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-tcp-router.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-tcp-router-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-test-helpers.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-windows-extensions.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-windows-prison.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf_canaries.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/check-a-record.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cicerone.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cli-plugin-repo.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cli-workstation.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cloudfoundry-buildpack-clr.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/consul-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/container-networking-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/container-networking-geode-demo.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/container-networking-notes.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/containerizer.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/core-values-faq.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/datadog-firehose-nozzle.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/datadog-firehose-nozzle-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/diego.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/diego-docker-cache-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/Diego-Enabler.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/diego-performance-app.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/docker-cache-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ducati-cni-plugins.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ducati-daemon.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ducati-dns.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ducatify.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/efs-volume-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/efsbroker.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/efsdriver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/etcd-metrics-server.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/etcd-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/example-nozzle.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/example-nozzle-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/fezzik.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/galera-healthcheck.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/garden-acceptance.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/garden-container-creation-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/garden-linux-kernel-acceptance.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/garden-windows-bosh-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/genclient.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/goci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/goshims.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/greenhouse-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/greenhouse-install-script-generator.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/guardian-cni-adapter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/guillotine.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/hakim.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/if_acceptance_tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/if_warden.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/lattice-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/local-volume-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/localbroker.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/localdriver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ltc.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/multi-buildpack.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/natbeat.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/NET-sample-app.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/netman-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/nfsdriver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/nocs.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/notifications.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/notifications-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/notifications-sendgrid-receiver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ouroboros-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/pat.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/persi-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/receptor-client.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/riakcs_ctrl.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/route-registrar.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-acceptance-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-api.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-api-cli.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-info.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-perf-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/sample-windows-bosh-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/spiff.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/switchboard.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/tcp-emitter.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/thoth.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/trace-logger.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/uaa-go-client.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/uaa-java-client.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/uaa-token-fetcher.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/uaago.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/v3-capi-docs.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/varz-firehose-nozzle.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/varz-firehose-nozzle-release.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/voldriver.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/volman.git"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/volume_driver_cert.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/cloudfoundry/api-docs"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/archiver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/auction"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/auctioneer"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bbs"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/benchmarkbbs"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/binary-builder"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/binary-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/binary-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/blobstore_url_signer"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-agent"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-aws-tools-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-bootloader"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-cli"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-cpi"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-davcli"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-init"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-lite"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-notes"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-packer-templates"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-softlayer-cpi"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh-utils"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bosh_artifacts"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/brats"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/buildpack-packager"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/buildpackapplifecycle"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/buildpacks-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/bytefmt"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cacheddownloader"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/canibump"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-checkman"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-dockerfiles"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-integration-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/capi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cc-api-v3-style-guide"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cc-uploader"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-app-utils-ruby"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-deployment"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-dotnet-sdk"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-final-release-election"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-infrastructure-checkman"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-java-client"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-lite"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-message-bus"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-msbuild-tasks"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-mysql-broker"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-mysql-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-release-integration-checkman"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-riak-cs-broker"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-riak-cs-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-services-contrib"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-smoke-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-uaa-lib"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-uaac"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cf-vs-extension"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cfdot"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cfhttp"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cflager"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cflinuxfs2-rootfs-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/CLAW"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cli"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cli-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cli-docs-scripts"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/clock"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/cloud_controller_ng"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/collector"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/commandrunner"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/common"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/communitydashboard"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/compile-extensions"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/config-server"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/consuladapter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/converger"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dea-hm-workspace"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dea_logging_agent"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dea_ng"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/debugserver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-cf-compatibility"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-ci-pools"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-datadog-templates"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-design-notes"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-dev-notes"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-dockerfiles"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-perf-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-ssh"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-stress-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-upgrade-stability-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diego-windows-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/diegocanaryapp"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dockerapplifecycle"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-book-cloudfoundry"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-bosh"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-buildpacks"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-cf-admin"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-cf-cli"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-cf-help"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-cloudfoundry-concepts"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-deploying-cf"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-dev-guide"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-loggregator"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-running-cf"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/docs-services"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dotnet-core-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dotnet-core-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dropsonde"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/dropsonde-protocol"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/em-posix-spawn"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/eventhub"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/example-git-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/executor"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/fileserver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/firehose-plugin"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-ci-pools"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-dockerfiles"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-integration-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-lite"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-runc-docs"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-runc-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-shed"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-windows"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/garden-windows-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gibson"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/git-release-notes"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/git_pipeline"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/go-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/go-ccapi"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/go-fetcher"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gofileutils"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gorouter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gosigar"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/gosteno"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/go_cfmessagebus"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs-bench"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs-bench-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs-ci-locks"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/grootfs-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/guardian"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/healthcheck"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/hm9000"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/homebrew-tap"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/identity-tools"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/idmapper"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/inigo"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/integration-test-support"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/IronFrame"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-auto-reconfiguration"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-container-customizer"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-dependency-builder"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-memory-calculator"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-metric-writer"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-support"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-buildpack-system-test"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-offline-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/java-test-applications"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/lager"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/localip"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/locket"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/loggregator"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/loggregatorlib"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/loggregator_emitter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/logos"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/machete"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/mariadb_ctrl"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/mega-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/membrane"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/mkman"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/mkman-version"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/multierror"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/nats-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/networking-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/noaa"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/nodejs-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/nsync"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/nyet"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/omniauth-uaa-oauth2"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/operationq"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/os-conf-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/php-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/php-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/pmc-notes"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/postgres-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/python-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/rep"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/route-emitter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/rspec_parallel"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/ruby-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/ruby-package"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/runtime-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/runtime-og-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/runtimeschema"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/schemata"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/shared-release-packages"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/sonde-go"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/sprout-bosh"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/sprout-capi"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/sprout-routing"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/stacks"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/stager"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/staticfile-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/staticfile-buildpack-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/statsd-injector"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/steno"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/storeadapter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/summit-training-classes"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/syslog-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/systemcerts"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/tps"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/uaa"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/uaa-keystone"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/uaa-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/uaa-singular"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/urljoiner"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/v3-cli-plugin"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vcap-common"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vcap-concurrency"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vcap-test-assets"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vcap-tools"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/vizzini"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/warden"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/warden-test-infrastructure"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/wats"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/windows_app_lifecycle"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/workpool"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry/yagnats"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/admin-ui"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/app-autoscaler"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/app-autoscaler-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/app-restarter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/asg-creator"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/aws-light-stemcell-builder"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service-client"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service-migration-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bits-service-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-aws-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-azure-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-certification-receipt-generator"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-cpi-certification"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-dev-toolbox-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-fuzz-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-google-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-load-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-load-tests-workspace"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-openstack-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-openstack-environment-templates"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-photon-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-rackhd-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-softlayer-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-vcloud-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-vsphere-cpi-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-windows-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-windows-stemcell-builder"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/bosh-workspace"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/brooklyn-examples"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/brooklyn-plugin"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/brooklyn-service-broker"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/buildpacker"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/catch-all-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cephbroker"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cephdriver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cephfs-bosh-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-abacus"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-dotnet-sdk-samples"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-exe-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-identity-acceptance-tests-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-iis8-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mssql-broker"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-benchmark-app"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-bootstrap"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-cluster-health-logger"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-cluster-repair"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-force-rejoin"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-mysql-metrics-emitter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-openstack-validator"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-riak-cs-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-riak-cs-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-routing-test-helpers"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-swagger"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-tcp-router"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-tcp-router-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-test-helpers"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-windows-extensions"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf-windows-prison"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cf_canaries"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/check-a-record"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cicerone"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cli-plugin-repo"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cli-workstation"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/cloudfoundry-buildpack-clr"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/consul-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/container-networking-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/container-networking-geode-demo"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/container-networking-notes"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/containerizer"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/core-values-faq"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/datadog-firehose-nozzle"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/datadog-firehose-nozzle-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/diego"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/diego-docker-cache-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/Diego-Enabler"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/diego-performance-app"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/docker-cache-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ducati-cni-plugins"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ducati-daemon"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ducati-dns"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ducatify"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/efs-volume-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/efsbroker"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/efsdriver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/etcd-metrics-server"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/etcd-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/example-nozzle"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/example-nozzle-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/fezzik"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/galera-healthcheck"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/garden-acceptance"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/garden-container-creation-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/garden-linux-kernel-acceptance"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/garden-windows-bosh-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/genclient"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/goci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/goshims"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/greenhouse-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/greenhouse-install-script-generator"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/guardian-cni-adapter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/guillotine"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/hakim"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/if_acceptance_tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/if_warden"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/lattice-ci"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/local-volume-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/localbroker"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/localdriver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ltc"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/multi-buildpack"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/natbeat"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/NET-sample-app"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/netman-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/nfsdriver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/nocs"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/notifications"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/notifications-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/notifications-sendgrid-receiver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/ouroboros-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/pat"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/persi-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/receptor-client"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/riakcs_ctrl"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/route-registrar"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-acceptance-tests"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-api"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-api-cli"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-info"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-perf-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/routing-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/sample-windows-bosh-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/spiff"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/switchboard"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/tcp-emitter"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/thoth"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/trace-logger"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/uaa-go-client"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/uaa-java-client"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/uaa-token-fetcher"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/uaago"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/v3-capi-docs"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/varz-firehose-nozzle"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/varz-firehose-nozzle-release"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/voldriver"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/volman"
+                }, 
+                {
+                    "url": "https://github.com/cloudfoundry-incubator/volume_driver_cert"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "CloudFoundry", 
+            "wiki_url": []
+        }, 
+        "CloudNativeComputingFoundation": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/cncf/ambassadors.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/artwork.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/cla.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/cluster.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/demo.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/enduser.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/foundation.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/landscape.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/membership.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/presentations.git"
+                }, 
+                {
+                    "url": "https://github.com/cncf/toc.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/charts.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/client-go.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/community.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/contrib.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/dashboard.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/features.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/frakti.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/gengo.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/git-sync.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/heapster.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/helm.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/ingress.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/k8s.io.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kops.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kube-deploy.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kube-state-metrics.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kube-ui.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes-anywhere.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes-bootcamp.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes-docs-cn.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes-template-project.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes.github.io.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/md-check.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/minikube.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/node-problem-detector.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/perf-tests.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/pr-bot.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/release.git"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/test-infra.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/alertmanager.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/blackbox_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/busybox.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_golang.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_java.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_model.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_python.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_ruby.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/cloudwatch_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/collectd_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/common.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/consul_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/docs.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/golang-builder.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/graphite_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/haproxy_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/host_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/influxdb_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/jmx_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/memcached_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/migrate.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/mysqld_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/nagios_plugins.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/node_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/procfs.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/prom2json.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/promdash.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/prometheus.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/prometheus.github.io.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/promu.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/pushgateway.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/snmp_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/statsd_exporter.git"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/utils.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/cncf/ambassadors"
+                }, 
+                {
+                    "url": "https://github.com/cncf/artwork"
+                }, 
+                {
+                    "url": "https://github.com/cncf/cla"
+                }, 
+                {
+                    "url": "https://github.com/cncf/cluster"
+                }, 
+                {
+                    "url": "https://github.com/cncf/demo"
+                }, 
+                {
+                    "url": "https://github.com/cncf/enduser"
+                }, 
+                {
+                    "url": "https://github.com/cncf/foundation"
+                }, 
+                {
+                    "url": "https://github.com/cncf/landscape"
+                }, 
+                {
+                    "url": "https://github.com/cncf/membership"
+                }, 
+                {
+                    "url": "https://github.com/cncf/presentations"
+                }, 
+                {
+                    "url": "https://github.com/cncf/toc"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/charts"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/client-go"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/community"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/contrib"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/dashboard"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/features"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/frakti"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/gengo"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/git-sync"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/heapster"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/helm"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/ingress"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/k8s.io"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kops"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kube-deploy"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kube-state-metrics"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kube-ui"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes-anywhere"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes-bootcamp"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes-docs-cn"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes-template-project"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/kubernetes.github.io"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/md-check"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/minikube"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/node-problem-detector"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/perf-tests"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/pr-bot"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/release"
+                }, 
+                {
+                    "url": "https://github.com/kubernetes/test-infra"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/alertmanager"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/blackbox_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/busybox"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_golang"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_java"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_model"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_python"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/client_ruby"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/cloudwatch_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/collectd_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/common"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/consul_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/docs"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/golang-builder"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/graphite_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/haproxy_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/host_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/influxdb_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/jmx_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/memcached_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/migrate"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/mysqld_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/nagios_plugins"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/node_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/procfs"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/prom2json"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/promdash"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/prometheus"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/prometheus.github.io"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/promu"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/pushgateway"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/snmp_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/statsd_exporter"
+                }, 
+                {
+                    "url": "https://github.com/prometheus/utils"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "CloudNativeComputingFoundation", 
+            "wiki_url": []
+        }, 
+        "DiaMonWorkgroup": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/lttng/lami-spec.git"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-analyses.git"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-ci.git"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-docs.git"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-modules.git"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-ref-traces.git"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-tools.git"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-ust.git"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-ust-java-tests.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/lttng/lami-spec"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-analyses"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-ci"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-docs"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-modules"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-ref-traces"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-tools"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-ust"
+                }, 
+                {
+                    "url": "https://github.com/lttng/lttng-ust-java-tests"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "DiaMonWorkgroup", 
+            "wiki_url": []
+        }, 
         "Dronecode": {
             "bugzilla": [], 
             "description": [
@@ -288,6 +3498,9 @@
                 }, 
                 {
                     "url": "https://github.com/UAVCAN/uavcan.github.io.git"
+                }, 
+                {
+                    "url": "https://github.com/PX4/flight_review.git"
                 }
             ], 
             "github": [
@@ -557,6 +3770,9 @@
                 }, 
                 {
                     "url": "https://github.com/UAVCAN/uavcan.github.io"
+                }, 
+                {
+                    "url": "https://github.com/PX4/flight_review"
                 }
             ], 
             "mailing_lists": [], 
@@ -564,6 +3780,44 @@
             "releases": [], 
             "source_repo": [], 
             "title": "Dronecode", 
+            "wiki_url": []
+        }, 
+        "FOSSology": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/fossology/fossology.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/fossology/fossology"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "FOSSology", 
             "wiki_url": []
         }, 
         "Fd.io": {
@@ -752,9 +4006,136 @@
                 }, 
                 {
                     "url": "http://gerrit.hyperledger.org/r/sawtooth-validator"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/blockchain-explorer.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-api.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-baseimage.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-chaintool.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-cop.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-sdk-java.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-sdk-node.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-sdk-py.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-test-resources.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/hyperledger.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/iroha.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/iroha-android.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/iroha-ios.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/iroha-javascript.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-arcade.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-core.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-dev-tools.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-docs.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-mktplace.git"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-validator.git"
                 }
             ], 
-            "github": [], 
+            "github": [
+                {
+                    "url": "https://github.com/hyperledger/blockchain-explorer"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-api"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-baseimage"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-chaintool"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-cop"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-sdk-java"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-sdk-node"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-sdk-py"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/fabric-test-resources"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/hyperledger"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/iroha"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/iroha-android"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/iroha-ios"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/iroha-javascript"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-arcade"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-core"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-dev-tools"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-docs"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-mktplace"
+                }, 
+                {
+                    "url": "https://github.com/hyperledger/sawtooth-validator"
+                }
+            ], 
             "mailing_lists": [], 
             "parent_project": [], 
             "pipermail": [
@@ -789,6 +4170,324 @@
             "releases": [], 
             "source_repo": [], 
             "title": "Hyperledger", 
+            "wiki_url": []
+        }, 
+        "IOVisorProject": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/iovisor/bcc.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/bcc-fuse.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/bpf-docs.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/bpf-fuzzer.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/hoverui.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/iomodules.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/iovisor.github.io.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/vagrant.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/wiki.git"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/xdp-vagrant.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/iovisor/bcc"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/bcc-fuse"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/bpf-docs"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/bpf-fuzzer"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/hoverui"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/iomodules"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/iovisor.github.io"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/vagrant"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/wiki"
+                }, 
+                {
+                    "url": "https://github.com/iovisor/xdp-vagrant"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "IOVisorProject", 
+            "wiki_url": []
+        }, 
+        "IoTivity": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://gerrit.iotivity.org/gerrit/ci-management"
+                }, 
+                {
+                    "url": "https://gerrit.iotivity.org/gerrit/iotivity"
+                }, 
+                {
+                    "url": "https://gerrit.iotivity.org/gerrit/iotivity-constrained"
+                }, 
+                {
+                    "url": "https://gerrit.iotivity.org/gerrit/iotivity-contrib"
+                }, 
+                {
+                    "url": "https://gerrit.iotivity.org/gerrit/iotivity-node"
+                }, 
+                {
+                    "url": "https://gerrit.iotivity.org/gerrit/iotivity-test"
+                }, 
+                {
+                    "url": "https://gerrit.iotivity.org/gerrit/iotivity-upnp-bridge"
+                }, 
+                {
+                    "url": "https://gerrit.iotivity.org/gerrit/iotivity-xmpp"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "IoTivity", 
+            "wiki_url": []
+        }, 
+        "KineticOpenStorageProject": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/Kinetic/kinetic-c.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-cpp-client.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-cpp-examples.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-demo1.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-go.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-java.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-js.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-protocol.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-py.git"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-swift-lang.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/Kinetic/kinetic-c"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-cpp-client"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-cpp-examples"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-demo1"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-go"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-java"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-js"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-protocol"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-py"
+                }, 
+                {
+                    "url": "https://github.com/Kinetic/kinetic-swift-lang"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "KineticOpenStorageProject", 
+            "wiki_url": []
+        }, 
+        "LetsEncrypt": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/certbot/certbot.git"
+                }, 
+                {
+                    "url": "https://github.com/certbot/testrepo2.git"
+                }, 
+                {
+                    "url": "https://github.com/certbot/website.git"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/acme-spec.git"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/boulder.git"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/goose.git"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/pkcs11key.git"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/website.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/certbot/certbot"
+                }, 
+                {
+                    "url": "https://github.com/certbot/testrepo2"
+                }, 
+                {
+                    "url": "https://github.com/certbot/website"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/acme-spec"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/boulder"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/goose"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/pkcs11key"
+                }, 
+                {
+                    "url": "https://github.com/letsencrypt/website"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "LetsEncrypt", 
             "wiki_url": []
         }, 
         "Linux": {
@@ -1157,6 +4856,9 @@
                 }, 
                 {
                     "url": "https://github.com/nodejs/vm.git"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/version-management.git"
                 }
             ], 
             "github": [
@@ -1453,6 +5155,9 @@
                 }, 
                 {
                     "url": "https://github.com/nodejs/vm"
+                }, 
+                {
+                    "url": "https://github.com/nodejs/version-management"
                 }
             ], 
             "mailing_lists": [], 
@@ -1505,6 +5210,332 @@
             "releases": [], 
             "source_repo": [], 
             "title": "ODPI", 
+            "wiki_url": []
+        }, 
+        "ONOS": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/opennetworkinglab/cdvue.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/cord-config.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/flowvisor.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/flowvisor-test.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/jdvue.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/mininet.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos-app-samples.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos-stc.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos-warden.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos-yang-tools.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/OnosSystemTest.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/OpenVirteX.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/spring-open.git"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/spring-open-cli.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/opennetworkinglab/cdvue"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/cord-config"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/flowvisor"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/flowvisor-test"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/jdvue"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/mininet"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos-app-samples"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos-stc"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos-warden"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/onos-yang-tools"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/OnosSystemTest"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/OpenVirteX"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/spring-open"
+                }, 
+                {
+                    "url": "https://github.com/opennetworkinglab/spring-open-cli"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "ONOS", 
+            "wiki_url": []
+        }, 
+        "OPNFV": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/apex"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/armband"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/availability"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/bottlenecks"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/compass4nfv"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/conductor"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/copper"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/cperf"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/daisy"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/doctor"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/domino"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/dovetail"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/dpacc"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/enfv"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/escalator"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/fastpathmetrics"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/fds"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/fuel"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/functest"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/genesis"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/genesisreq"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/inspector"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/ipv6"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/joid"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/kvmfornfv"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/lsoapi"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/models"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/moon"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/movie"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/multisite"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/netready"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/octopus"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/onosfw"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/opera"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/opnfvdocs"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/orchestra"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/oscar"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/ovno"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/ovsnfv"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/parser"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/pharos"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/pinpoint"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/policytest"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/prediction"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/promise"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/qtip"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/releng"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/rs"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/sandbox"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/sdnvpn"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/securedlab"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/securityscanning"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/sfc"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/storperf"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/ves"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/vnf_forwarding_graph"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/vswitchperf"
+                }, 
+                {
+                    "url": "https://gerrit.opnfv.org/gerrit/yardstick"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "OPNFV", 
             "wiki_url": []
         }, 
         "Open-O": {
@@ -1664,6 +5695,50 @@
             "releases": [], 
             "source_repo": [], 
             "title": "Open-O", 
+            "wiki_url": []
+        }, 
+        "OpenAPIInitiative": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/OAI/OpenAPI-Specification.git"
+                }, 
+                {
+                    "url": "https://github.com/OAI/OpenAPI-Style-Guide.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/OAI/OpenAPI-Specification"
+                }, 
+                {
+                    "url": "https://github.com/OAI/OpenAPI-Style-Guide"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "OpenAPIInitiative", 
             "wiki_url": []
         }, 
         "OpenDaylight": {
@@ -2293,6 +6368,50 @@
             "title": "OpenDaylight", 
             "wiki_url": []
         }, 
+        "OpenHPC": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/openhpc/ohpc.git"
+                }, 
+                {
+                    "url": "https://github.com/openhpc/submissions.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/openhpc/ohpc"
+                }, 
+                {
+                    "url": "https://github.com/openhpc/submissions"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "OpenHPC", 
+            "wiki_url": []
+        }, 
         "OpenMainframe": {
             "bugzilla": [], 
             "description": [
@@ -2329,6 +6448,512 @@
             "releases": [], 
             "source_repo": [], 
             "title": "OpenMainframe", 
+            "wiki_url": []
+        }, 
+        "OpenvSwitch": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/openvswitch/of-config.git"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/openvswitch.github.io.git"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/ovn-kubernetes.git"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/ovn-scale-test.git"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/ovs.git"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/ovs-issues.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/openvswitch/of-config"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/openvswitch.github.io"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/ovn-kubernetes"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/ovn-scale-test"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/ovs"
+                }, 
+                {
+                    "url": "https://github.com/openvswitch/ovs-issues"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "OpenvSwitch", 
+            "wiki_url": []
+        }, 
+        "PNDA": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/pndaproject/example-applications.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-jupyter-notebooks.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-kafka-clients.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-kafka-spark-opentsdb-app.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-spark-batch.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-spark-streaming.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-console-backend.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-console-frontend.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-data-mgmnt.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-deployment-manager.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-libraries.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-package-repository.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-salt.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-salt-cloud.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-testing.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-tools.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-aws-templates.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-dib-elements.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-guide.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-heat-templates.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-package-server-docker.git"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/prod-logstash-codec-avro.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/pndaproject/example-applications"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-jupyter-notebooks"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-kafka-clients"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-kafka-spark-opentsdb-app"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-spark-batch"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/example-spark-streaming"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-console-backend"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-console-frontend"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-data-mgmnt"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-deployment-manager"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-libraries"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-package-repository"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-salt"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-salt-cloud"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-testing"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/platform-tools"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-aws-templates"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-dib-elements"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-guide"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-heat-templates"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/pnda-package-server-docker"
+                }, 
+                {
+                    "url": "https://github.com/pndaproject/prod-logstash-codec-avro"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "PNDA", 
+            "wiki_url": []
+        }, 
+        "RConsortium": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/r-hub/ci-backend.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/ci-frontend.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/citest.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/docs.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/feedback.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/jenkins-log-stream.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/linux-binary-builder.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/log.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/logs.app.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/pandoc-builders.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/presentations.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/proposal.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rdesc-parser.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-backend.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-cron.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-frontend.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-jenkins.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-linux-builders.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-node.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhubctrl.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/sysreqs.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/sysreqs.app.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/sysreqsdb.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/test-packages.git"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/wincheck.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/r-hub/ci-backend"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/ci-frontend"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/citest"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/docs"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/feedback"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/jenkins-log-stream"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/linux-binary-builder"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/log"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/logs.app"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/pandoc-builders"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/presentations"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/proposal"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rdesc-parser"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-backend"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-cron"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-frontend"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-jenkins"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-linux-builders"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhub-node"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/rhubctrl"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/sysreqs"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/sysreqs.app"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/sysreqsdb"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/test-packages"
+                }, 
+                {
+                    "url": "https://github.com/r-hub/wincheck"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "RConsortium", 
+            "wiki_url": []
+        }, 
+        "TODOGroup": {
+            "bugzilla": [], 
+            "description": [
+                {
+                    "format": "", 
+                    "safe_summary": "", 
+                    "safe_value": "", 
+                    "summary": "", 
+                    "value": ""
+                }
+            ], 
+            "dev_list": {
+                "email": "foo@bar", 
+                "name": "foobar", 
+                "url": "https://foo.bar"
+            }, 
+            "downloads": [], 
+            "forums": [], 
+            "gerrit_repo": [
+                {}
+            ], 
+            "git": [
+                {
+                    "url": "https://github.com/todogroup/assets.git"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/charter.git"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/gh-issues.git"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/job-descriptions.git"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/opencodeofconduct.git"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/policies.git"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/project-metadata.git"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/todogroup.github.io.git"
+                }
+            ], 
+            "github": [
+                {
+                    "url": "https://github.com/todogroup/assets"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/charter"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/gh-issues"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/job-descriptions"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/opencodeofconduct"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/policies"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/project-metadata"
+                }, 
+                {
+                    "url": "https://github.com/todogroup/todogroup.github.io"
+                }
+            ], 
+            "mailing_lists": [], 
+            "parent_project": [], 
+            "releases": [], 
+            "source_repo": [], 
+            "title": "TODOGroup", 
             "wiki_url": []
         }, 
         "Zephyr": {
