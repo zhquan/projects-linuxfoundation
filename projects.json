@@ -9602,6 +9602,11 @@
         "git": [
             "https://github.com/openmainframeproject/ade.git"
         ],
+        "pipermail": [
+            "https://lists.openmainframeproject.org/pipermail/omp-academic-members/",
+            "https://lists.openmainframeproject.org/pipermail/omp-members/",
+            "https://lists.openmainframeproject.org/pipermail/omp-tsc/"
+        ],
         "meta": {
             "title": "openmainframe"
         }
