@@ -9680,6 +9680,14 @@
             "https://git.automotivelinux.org/gerrit/zzz_acl/src_acl",
             "https://git.automotivelinux.org/gerrit/zzz_acl/staging_acl"
         ],
+        "pipermail": [
+            "https://lists.linuxfoundation.org/pipermail/automotive-discussions/",
+            "https://lists.linuxfoundation.org/pipermail/automotive-sat/",
+            "https://lists.linuxfoundation.org/pipermail/automotive-rqmts/",
+            "https://lists.linuxfoundation.org/pipermail/automotive-eg-compliance/",
+            "https://lists.linuxfoundation.org/pipermail/automotive-eg-rvi/",
+            "https://lists.linuxfoundation.org/pipermail/automotive-functional-safety/"
+        ],
         "meta": {
             "title": "automotivelinux"
         }
