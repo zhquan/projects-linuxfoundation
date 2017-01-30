@@ -167,6 +167,13 @@
             "https://github.com/openvswitch/ovs.git",
             "https://github.com/openvswitch/ovs-issues.git"
         ],
+        "pipermail": [
+            "https://mail.openvswitch.org/pipermail/ovs-announce/",
+            "https://mail.openvswitch.org/pipermail/ovs-build/",
+            "https://mail.openvswitch.org/pipermail/ovs-dev/",
+            "https://mail.openvswitch.org/pipermail/ovs-discuss/",
+            "https://mail.openvswitch.org/pipermail/ovs-git/"
+        ],
         "meta": {
             "title": "openvswitch"
         }
