@@ -10205,6 +10205,9 @@
             "https://lists.coreinfrastructure.org/pipermail/cii-discuss/",
             "https://lists.coreinfrastructure.org/pipermail/cii-tools/"
         ],
+        "git":[
+            "https://github.com/linuxfoundation/cii-best-practices-badge"
+        ],
         "meta": {
             "title": "coreinfrastructureinitiative"
         }
