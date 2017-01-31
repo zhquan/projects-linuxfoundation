@@ -36,6 +36,14 @@
             "https://github.com/r-hub/test-packages.git",
             "https://github.com/r-hub/wincheck.git"
         ],
+        "pipermail": [
+            "https://lists.r-consortium.org/pipermail/rconsortium-projects/",
+            "https://lists.r-consortium.org/pipermail/rconsortium-wg-api/",
+            "https://lists.r-consortium.org/pipermail/rconsortium-wg-cct/",
+            "https://lists.r-consortium.org/pipermail/rconsortium-wg-cert/",
+            "https://lists.r-consortium.org/pipermail/rconsortium-wg-ddr/",
+            "https://lists.r-consortium.org/pipermail/rconsortium-wg-dtf/"
+        ],
         "meta": {
             "title": "rconsortium"
         }
