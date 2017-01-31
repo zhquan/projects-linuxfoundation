@@ -11297,6 +11297,13 @@
         "pipermail": [
             "https://lists.cip-project.org/pipermail/cip-dev/"
         ],
+        "git": [
+            "https://gitlab.com/cip-project/testing",
+            "https://gitlab.com/cip-project/kernelci-backend",
+            "https://gitlab.com/cip-project/lava2-badsd",
+            "https://gitlab.com/cip-project/kernelci-debian",
+            "https://gitlab.com/cip-project/linux-cip"
+        ],
         "meta": {
             "title": "civilinfrastructureplatform"
         }
